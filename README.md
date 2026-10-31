@@ -13,6 +13,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cpp,css,docker,express,figma,git,html,java,js,laravel,linux,mongodb,mysql,nodejs,php,python,react,redis,sqlite,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=bash,cpp,css,docker,express,figma,git,html,java,js,laravel,linux,mongodb,mysql,nodejs,php,python,react,redis,sqlite,tailwind,ts,firebase,fastapi,jest,rabbitmq,githubactions,supabase,kali,prisma&theme=dark" />
   </a>
 </p>
